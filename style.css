@@ -1,0 +1,30 @@
+body{
+  background: #c6e9ff;
+}
+main{
+  display:flex;
+  flex-flow: column;
+  align-items: center;
+}
+p{
+  margin: 0px;
+  //border: 1px solid green;
+}
+#content{
+  //border: 1px dotted orchid;
+  margin: 15px;
+  font-size: 170%;
+}
+#button{
+  border: 2px solid yellow;
+  border-radius: 15px;
+  padding: 6px;
+  padding-bottom: 0px;
+  font-size: 200%;
+  background: navy;
+  color: gold
+}
+h1{
+  //border: 1px dotted red;
+  margin-bottom: 5px;
+}
